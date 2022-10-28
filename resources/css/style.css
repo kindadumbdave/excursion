@@ -25,3 +25,9 @@ body {
 	font-size: 16px;
 	color: #7fffd4;
 }
+
+.footer--copyright {
+	font-size: 21px;
+	color: #dcdcdc;
+	text-align: right;
+}
